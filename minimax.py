@@ -5,9 +5,6 @@ def minimax_decision(gameState):
     has the best possible value.  A move is a pair of coordinates
     in (column, row) order corresponding to a legal move for
     the searching player.
-    
-    You can ignore the special case of calling this function
-    from a terminal state.
     """
     if gameState.player == 0:
         apply_func = min_value
