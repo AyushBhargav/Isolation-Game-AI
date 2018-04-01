@@ -1,2 +1,2 @@
 # Isolation-Game-AI
-AI agent which isolation game with minimax algorithm
+AI agent which playes "isolation" game with minimax algorithm.
